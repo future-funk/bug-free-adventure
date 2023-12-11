@@ -9,7 +9,7 @@ packages = [{include = "poetry_demo"}]
 [tool.poetry.dependencies]
 python = "^3.7"
 cowsay = "~=5.0"
-pycrypto = "=2.6.1"
+pycrypto = "2.6.1"
 
 [build-system]
 requires = ["poetry-core"]
